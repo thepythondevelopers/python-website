@@ -1,0 +1,14 @@
+[31-May-2022 15:09:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::the_title() in /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-content/themes/python/about.php:107
+Stack trace:
+#0 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-includes/template-loader.php(106): include()
+#1 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-blog-header.php(19): require_once('/home/i3c962d3t...')
+#2 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/index.php(17): require('/home/i3c962d3t...')
+#3 {main}
+  thrown in /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-content/themes/python/about.php on line 107
+[31-May-2022 16:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function time_elapsed_string() in /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-content/themes/python/blog.php:102
+Stack trace:
+#0 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-includes/template-loader.php(106): include()
+#1 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-blog-header.php(19): require_once('/home/i3c962d3t...')
+#2 /home/i3c962d3tems/public_html/web.thepythondevelopers.com/index.php(17): require('/home/i3c962d3t...')
+#3 {main}
+  thrown in /home/i3c962d3tems/public_html/web.thepythondevelopers.com/wp-content/themes/python/blog.php on line 102
